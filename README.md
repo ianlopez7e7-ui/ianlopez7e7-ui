@@ -27,7 +27,7 @@ Soc un estudiant cursant el primer any de DAWe a l'Institut Tecnològic de Barce
 
 >***Grau mitjà - Sistemes microinformàtics i xarxes [SMX]***
 
->***Grau Superior - Desenvolupament d'aplicacions Web [DAWe]***
+>***Grau Superior - Desenvolupament d'aplicacions Web [DAWe] (Cursant)***
 
 
 >***Títol Teòric de Piano - Grau 3***
